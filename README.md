@@ -131,7 +131,7 @@ ORDER BY ps.TotalPurchaseDollars DESC
 Vendor_Performance_Analysis/
 │
 ├── data/
-│   └── inventory.db                  # SQLite database
+│   └── inventory.db                  # SQLite database [Access the "data" file here: https://drive.google.com/file/d/1OycGXzQfY5aKn1kbR07l_Qw7pQ_hlrkp/view?usp=sharing]
 │
 ├── sql/                               # SQL scripts for data cleaning and aggregation
 │
@@ -206,6 +206,6 @@ The final report includes:
 ## Author
 
 **Hritish Mahajan**  
-*Data Analyst | Python | SQL | Power BI | Machine learnig*
+*Data Analysis | Python | SQL | Power BI | Machine learning*
 📧 Contact: *hritishx@gmail.com*  
 🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
