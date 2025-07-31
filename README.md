@@ -176,8 +176,8 @@ graph TD;
 ## Power BI Dashboard Preview
 
 Below is a preview of the Power BI dashboard showing key vendor KPIs:
-<img width="1071" height="604" alt="Image" src="./PowerBI1.png/>
-<img width="1070" height="603" alt="Image" src="./PowerBi2.png/>
+<img width="1071" height="604" alt="Image" src="./PowerBI1.png"> 
+<img width="1071" height="603" alt="Image" src="./PowerBi2.png"/>
 
 > 📁 File: [`Inventory_Management.pbix`](https://app.powerbi.com/view?r=eyJrIjoiNTA4MzAyYjctNTY4NC00YzNlLWEzMGUtMDc4ZTdkNDhkOWVjIiwidCI6IjQyYjUxMzUzLTZhMzctNDA5Zi1hMmZlLTc3OGE5YmUzMTllNCJ9)
 
