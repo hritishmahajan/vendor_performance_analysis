@@ -131,7 +131,7 @@ ORDER BY ps.TotalPurchaseDollars DESC
 Vendor_Performance_Analysis/
 │
 ├── data/
-│   └── inventory.db                  # SQLite database [Access the "data" file here: https://drive.google.com/file/d/1OycGXzQfY5aKn1kbR07l_Qw7pQ_hlrkp/view?usp=sharing]
+│   └── inventory.db                  # SQLite database 
 │
 ├── sql/                               # SQL scripts for data cleaning and aggregation
 │
@@ -153,7 +153,7 @@ Vendor_Performance_Analysis/
 │
 └── README.md                        # Project documentation
 ```
-
+[Access the "data" file here: https://drive.google.com/file/d/1OycGXzQfY5aKn1kbR07l_Qw7pQ_hlrkp/view?usp=sharing]
 ---
 
 
