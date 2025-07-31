@@ -153,7 +153,7 @@ Vendor_Performance_Analysis/
 │
 └── README.md                        # Project documentation
 ```
-[Access the "data" file here: https://drive.google.com/file/d/1OycGXzQfY5aKn1kbR07l_Qw7pQ_hlrkp/view?usp=sharing]
+Access the "data" file here: https://drive.google.com/file/d/1OycGXzQfY5aKn1kbR07l_Qw7pQ_hlrkp/view?usp=sharing
 ---
 
 
@@ -206,6 +206,7 @@ The final report includes:
 ## Author
 
 **Hritish Mahajan**  
-*Data Analysis | Python | SQL | Power BI | Machine learning*
+*Data Analysis | Python | SQL | Power BI | Machine Learning |*
+
 📧 Contact: *hritishx@gmail.com*  
 🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
